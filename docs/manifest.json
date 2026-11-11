@@ -1,17 +1,1 @@
-{
-  "schemaVersion": 1,
-  "channel": "stable",
-  "products": {
-    "windows": {
-      "version": "2.8.0",
-      "url": "https://github.com/aljamesamir4090/DeskMouse-Releases/releases/download/v2.8.0/DeskMouse-Setup-2.8.0-x64.exe",
-      "sha256": "9f79d70dbba0513f739f2097605b60218f3547f3c37ba4a60ea4385a40834d86"
-    },
-    "android": {
-      "version": "2.8.0",
-      "versionCode": 16,
-      "url": "https://github.com/aljamesamir4090/DeskMouse-Releases/releases/download/v2.8.0/DeskMouse-Android.apk",
-      "sha256": "02892f74b970413e176e5593908ae3f45aa2c131542f47fd5be43d8830ec677d"
-    }
-  }
-}
+{"schemaVersion":2,"algorithm":"ECDSA_P256_SHA256","payload":"eyJjaGFubmVsIjoic3RhYmxlIiwicHVibGlzaGVkQXQiOiIyMDI2LTExLTExVDIyOjAwOjM1LjA4MTI4NDhaIiwicHJvZHVjdHMiOnsid2luZG93cyI6eyJ2ZXJzaW9uIjoiMi44LjEiLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vYWxqYW1lc2FtaXI0MDkwL0Rlc2tNb3VzZS1SZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92Mi44LjEvRGVza01vdXNlLVNldHVwLTIuOC4xLXg2NC5leGUiLCJzaGEyNTYiOiI4N2U5ZDJhMTUyMTMyMWI5NDg4MmZjZmUzODliMmNmYzhkZDA3ZDkyMDFmZTZlZWM1MzFiMjNkZTg2NGZmNWNmIiwibm90ZXMiOiJTZWN1cmUgYXV0b21hdGljIHVwZGF0ZSBjaGVja3MgYW5kIHZlcmlmaWVkIHNldHVwIGRvd25sb2Fkcy4ifSwiYW5kcm9pZCI6eyJ2ZXJzaW9uIjoiMi44LjEiLCJ2ZXJzaW9uQ29kZSI6MTcsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hbGphbWVzYW1pcjQwOTAvRGVza01vdXNlLVJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjguMS9EZXNrTW91c2UtQW5kcm9pZC5hcGsiLCJzaGEyNTYiOiIyOTBjYzYzNjM0MTZlMzNiYjdkMTU4ZDdmMDRiM2Y5ZDkyY2NhZGM3MTRkZjUyY2RiMmRlNWVkYmYzZGVlNmFjIiwibm90ZXMiOiJTZWN1cmUgYXV0b21hdGljIHVwZGF0ZSBjaGVja3MgYW5kIHZlcmlmaWVkIEFQSyBpbnN0YWxsYXRpb24uIn19fQ==","signature":"MEUCIG5nJ+FDwmzu24CXZHtEBVv2cub8miJ44O3d+oxQHrS1AiEA80TAt7ugWXer3imkYSC8R8CAvsYG5FheJm3ie7V72ak="}
