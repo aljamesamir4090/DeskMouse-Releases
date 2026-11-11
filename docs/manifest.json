@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "products": {
+    "windows": {
+      "version": "2.8.0",
+      "url": "https://github.com/aljamesamir4090/DeskMouse-Releases/releases/download/v2.8.0/DeskMouse-Setup-2.8.0-x64.exe",
+      "sha256": "9f79d70dbba0513f739f2097605b60218f3547f3c37ba4a60ea4385a40834d86"
+    },
+    "android": {
+      "version": "2.8.0",
+      "versionCode": 16,
+      "url": "https://github.com/aljamesamir4090/DeskMouse-Releases/releases/download/v2.8.0/DeskMouse-Android.apk",
+      "sha256": "02892f74b970413e176e5593908ae3f45aa2c131542f47fd5be43d8830ec677d"
+    }
+  }
+}
