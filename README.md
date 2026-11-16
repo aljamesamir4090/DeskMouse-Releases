@@ -1,45 +1,63 @@
-# Desk Mouse
+<div align="center">
+  <img src="docs/repository-banner.svg" alt="Desk Mouse — your Android phone as a wireless remote for Windows" width="100%">
+  <br><br>
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/aljamesamir4090/DeskMouse-Releases?display_name=tag&style=for-the-badge&color=8b72ff&label=LATEST" alt="Latest release"></a>
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases"><img src="https://img.shields.io/github/downloads/aljamesamir4090/DeskMouse-Releases/total?style=for-the-badge&color=18a878&label=DOWNLOADS" alt="Downloads"></a>
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest"><img src="https://img.shields.io/badge/ANDROID%20%2B%20WINDOWS-GET%20DESK%20MOUSE-e1ce7b?style=for-the-badge" alt="Android and Windows"></a>
+  <br><br>
+  <a href="https://samirs.xyz/desk-mouse">Product website</a> &nbsp;·&nbsp;
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases">Release notes</a> &nbsp;·&nbsp;
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/issues">Support</a>
+</div>
 
-![Latest release](https://img.shields.io/github/v/release/aljamesamir4090/DeskMouse-Releases?display_name=tag&style=flat-square&color=7c6cff)
-![Platforms](https://img.shields.io/badge/platform-Android%20%7C%20Windows-25232d?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/aljamesamir4090/DeskMouse-Releases/total?style=flat-square&color=18a878)
+<br>
 
-**Turn your Android phone into a wireless mouse, touchpad, and keyboard for your Windows PC.** Desk Mouse pairs devices on the same local network and keeps trusted computers ready to reconnect.
+## Your desktop, at your fingertips.
 
-[Website](https://samirs.xyz/desk-mouse) · [Download the latest release](https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest) · [Release history](https://github.com/aljamesamir4090/DeskMouse-Releases/releases)
+Desk Mouse turns an Android phone into a wireless mouse, touchpad, and keyboard for a Windows PC. Pair over your local network, then reconnect to trusted computers from the phone app.
 
-## Get Desk Mouse
+## What you can do
 
-Download both companions from the [latest release](https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest). Choose the files with the version in the filename:
+|  |  |  |
+|:---:|:---:|:---:|
+| **🖱️ Mouse & touchpad**<br>Move the pointer and click from your phone. | **⌨️ Keyboard**<br>Type on your PC from the Android app. | **⚡ PC controls**<br>Access supported desktop actions from one place. |
+| **🔗 QR or code pairing**<br>Pair with the Windows companion on your network. | **⭐ Trusted computers**<br>Return to saved computers without pairing again. | **🔒 Private connection**<br>Designed for direct local-network use. |
 
-| Device | File |
-| --- | --- |
-| Android phone | `DeskMouse-Android-vX.Y.Z.apk` |
-| Windows PC | `DeskMouse-Setup-vX.Y.Z-x64.exe` |
+## Download
 
-The release page lists the current version and its matching downloads. Download only from this official repository.
+<div align="center">
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest"><img src="https://img.shields.io/badge/GET%20THE%20ANDROID%20APP-Download%20APK-8b72ff?style=for-the-badge&logo=android&logoColor=white" alt="Download Android APK"></a>
+  &nbsp;
+  <a href="https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest"><img src="https://img.shields.io/badge/GET%20THE%20WINDOWS%20APP-Download%20Setup-e1ce7b?style=for-the-badge&logo=windows&logoColor=111115" alt="Download Windows setup"></a>
+</div>
 
-## Set up
+Open the [latest release](https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest) and download both companions. Pick the files with the version in their names:
 
-1. Install Desk Mouse on your Android phone and Windows PC.
-2. Connect both devices to the same Wi-Fi or local network, then open Desk Mouse on Windows.
+- **Android:** `DeskMouse-Android-vX.Y.Z.apk`
+- **Windows:** `DeskMouse-Setup-vX.Y.Z-x64.exe`
+
+## Get connected
+
+1. Install Desk Mouse on your phone and Windows PC.
+2. Connect both devices to the same Wi-Fi or local network. Open Desk Mouse on Windows.
 3. Pair by scanning the PC's QR code or entering its temporary code.
-4. Select the computer in the Android app to connect. A trusted saved computer can reconnect without pairing again.
+4. Choose the computer in the Android app to connect.
 
-Windows may ask you to allow Desk Mouse through Microsoft Defender Firewall. Allow access on **Private networks** so your phone can find the PC.
+If Windows asks about Microsoft Defender Firewall, allow Desk Mouse on **Private networks** so your phone can find the PC.
 
-> **Upgrade note:** If you have a Desk Mouse Android version older than 2.9.0, uninstall it before installing the current APK. The app signing key changed for that release, and uninstalling removes the old app's local data.
+> **Android upgrade note:** If your installed version is older than 2.9.0, uninstall it before installing the current APK. The signing key changed in 2.9.0; uninstalling removes the old app's local data.
 
-## Connection and privacy
+## Connection notes
 
-Desk Mouse is designed for control over your local network. Pairing establishes trusted access between your phone and PC; keep both devices on the same network for discovery and connection.
+Desk Mouse is designed for local-network use. Keep the phone and PC on the same Wi-Fi or LAN for discovery and control. Pairing establishes trusted access between the devices.
 
-## Troubleshooting
+### PC not showing up?
 
-- **PC not listed:** Confirm both devices are on the same network, Desk Mouse is running on Windows, and the firewall allows it on Private networks.
-- **QR or code pairing fails:** Keep the Windows companion open on its Pairing page and scan the current QR code or enter an unexpired code.
-- **Need help?** Visit the [Desk Mouse website](https://samirs.xyz/desk-mouse) or open a [GitHub issue](https://github.com/aljamesamir4090/DeskMouse-Releases/issues).
+- Confirm both devices are connected to the same network.
+- Make sure Desk Mouse is running on Windows.
+- Check that Windows Firewall allows Desk Mouse on Private networks.
+- For QR or code pairing, keep the Windows companion open on its Pairing page and use a current code.
 
-## Releases
+## Release archive
 
-Each release includes Android and Windows installers. Filenames include the release version so downloads are easy to identify. See the [release notes](https://github.com/aljamesamir4090/DeskMouse-Releases/releases) for changes and upgrade guidance.
+This repository hosts official Android and Windows builds. Each release includes versioned filenames and release notes. Browse the [latest build](https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest) or [all releases](https://github.com/aljamesamir4090/DeskMouse-Releases/releases).

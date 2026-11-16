@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Desk Mouse — Android remote for Windows</title>
+  <desc id="desc">A polished dark banner with a phone, a Windows display, and a glowing connection between them.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17151f"/><stop offset=".58" stop-color="#22202b"/><stop offset="1" stop-color="#101116"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#816cff"/><stop offset=".54" stop-color="#c359ed"/><stop offset="1" stop-color="#ed65db"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e2d8f0"/><stop offset=".45" stop-color="#777486"/><stop offset="1" stop-color="#44434f"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e7d78e"/><stop offset="1" stop-color="#b79e60"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#9b65f4" stop-opacity=".42"/><stop offset="1" stop-color="#9b65f4" stop-opacity="0"/></radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="30" fill="url(#background)"/>
+  <rect width="1200" height="430" rx="30" fill="url(#grid)"/>
+  <circle cx="1050" cy="210" r="300" fill="url(#glow)"/>
+  <path d="M0 355C250 295 390 440 640 368S1030 275 1200 336" fill="none" stroke="#c8b4ff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M0 380C270 325 415 460 660 393S1040 304 1200 362" fill="none" stroke="#ead994" stroke-opacity=".11" stroke-width="1.5"/>
+
+  <g transform="translate(74 72)">
+    <rect width="54" height="54" rx="17" fill="#0b0b10" stroke="#46414f"/>
+    <path d="M36 15c-2 12-17 14-23 23-7 10 0 21 11 22 13 1 19-8 19-20V23c0-3 3-5 6-7-1 8-8 11-15 12-12 3-17 12-16 20 1 6 7 9 13 7 5-2 8-7 8-14V18" fill="url(#metal)"/>
+    <path d="M34 15c-2 10-12 12-20 19-5 5-6 12-2 17 2-8 10-10 18-13 9-4 14-11 15-20z" fill="url(#violet)"/>
+    <circle cx="39" cy="13" r="6" fill="#fff"/>
+  </g>
+  <text x="145" y="94" fill="#c8b9ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">OFFICIAL RELEASES</text>
+  <text x="74" y="191" fill="#f7f5fb" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="750" letter-spacing="-3">Desk Mouse</text>
+  <text x="77" y="239" fill="#c5c1ce" font-family="Segoe UI,Arial,sans-serif" font-size="22">Your Android phone, a better way to control Windows.</text>
+  <rect x="77" y="282" width="124" height="38" rx="19" fill="#2d2937" stroke="#62516f"/>
+  <circle cx="96" cy="301" r="4" fill="#be8dff"/>
+  <text x="109" y="306" fill="#e9e5ef" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ANDROID</text>
+  <rect x="213" y="282" width="119" height="38" rx="19" fill="#282820" stroke="#706746"/>
+  <circle cx="232" cy="301" r="4" fill="#e5d486"/>
+  <text x="245" y="306" fill="#e9e5d7" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">WINDOWS</text>
+  <text x="77" y="366" fill="#8d8996" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5">WIRELESS MOUSE · TOUCHPAD · KEYBOARD</text>
+
+  <!-- Connection glow -->
+  <path d="M731 234C804 176 865 290 944 222" fill="none" stroke="#b78bff" stroke-width="16" stroke-linecap="round" opacity=".35" filter="url(#softGlow)"/>
+  <path d="M731 234C804 176 865 290 944 222" fill="none" stroke="url(#gold)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 10"/>
+  <circle cx="833" cy="224" r="5" fill="#e8d48a"/>
+
+  <!-- Phone -->
+  <g transform="translate(700 96) rotate(-7 63 130)">
+    <rect x="2" y="2" width="126" height="250" rx="27" fill="#08090d" stroke="#777382" stroke-width="2"/>
+    <rect x="10" y="12" width="110" height="230" rx="21" fill="#211e2b" stroke="#393543"/>
+    <rect x="42" y="19" width="46" height="8" rx="4" fill="#0a0a0e"/>
+    <circle cx="65" cy="129" r="40" fill="#302a3d" stroke="#5e536e" stroke-width="1.5"/>
+    <circle cx="65" cy="129" r="24" fill="none" stroke="#a18aff" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M58 116l20 13-12 2-4 12z" fill="#e6d891"/>
+    <path d="M25 205h78" stroke="#645e6e" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="29" cy="52" r="4" fill="#d7cb87"/>
+    <path d="M42 52h51" stroke="#777180" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Windows display -->
+  <g transform="translate(880 113)">
+    <rect x="5" y="0" width="238" height="157" rx="13" fill="#111218" stroke="#86818f" stroke-width="2"/>
+    <rect x="15" y="11" width="218" height="135" rx="7" fill="#262435"/>
+    <path d="M15 108c46-28 77-28 110 1 35-32 70-25 108-8v45H15z" fill="#4d436b" opacity=".78"/>
+    <path d="M15 124c55-30 95-13 132 3 35-14 59-13 86-3v22H15z" fill="#77728e" opacity=".55"/>
+    <circle cx="188" cy="44" r="12" fill="#e4d68e" opacity=".85"/>
+    <path d="M104 158v20m-35 7h105" stroke="#888492" stroke-width="5" stroke-linecap="round"/>
+    <rect x="171" y="173" width="46" height="8" rx="4" fill="#35323e"/>
+  </g>
+  <rect x="1081" y="322" width="49" height="49" rx="17" fill="#272431" stroke="#4f465d"/>
+  <path d="M1106 335v21m-10-10 10 10 10-10" fill="none" stroke="url(#gold)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1148" y="352" fill="#938e9d" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end" letter-spacing="1.4">DOWNLOAD</text>
+</svg>
