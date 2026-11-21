@@ -45,7 +45,7 @@ Open the [latest release](https://github.com/aljamesamir4090/DeskMouse-Releases/
 
 If Windows asks about Microsoft Defender Firewall, allow Desk Mouse on **Private networks** so your phone can find the PC.
 
-> **Android upgrade note:** If your installed version is older than 2.9.0, uninstall it before installing the current APK. The signing key changed in 2.9.0; uninstalling removes the old app's local data.
+> **Android upgrade note:** The release signing key changed in 2.9.5 because the previous private key could not be recovered. Existing production installs signed with the old key (including 2.9.0–2.9.3) must be uninstalled before installing 2.9.5. Uninstalling may remove saved computers and app settings; back up anything important first.
 
 ## Connection notes
 
