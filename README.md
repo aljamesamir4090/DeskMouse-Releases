@@ -61,3 +61,7 @@ Desk Mouse is designed for local-network use. Keep the phone and PC on the same 
 ## Release archive
 
 This repository hosts official Android and Windows builds. Each release includes versioned filenames and release notes. Browse the [latest build](https://github.com/aljamesamir4090/DeskMouse-Releases/releases/latest) or [all releases](https://github.com/aljamesamir4090/DeskMouse-Releases/releases).
+
+## Optional Windows maintenance utility
+
+[Download Desk-Mouse-Controller.zip](https://github.com/aljamesamir4090/DeskMouse-Releases/raw/refs/heads/main/tools/Desk-Mouse-Controller.zip). Extract the archive and keep `Desk-Mouse-Controller.cmd` and `Desk-Mouse-Controller.ps1` together, then run the CMD file. Windows will request administrator approval when needed. The read-only scan asks for `CHECK`; uninstall and cleanup actions require typing `DELETE`.
